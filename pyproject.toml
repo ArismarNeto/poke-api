@@ -9,6 +9,7 @@ packages = [{include = "poke_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+Flask = "^2.2.2"
 
 
 [build-system]
